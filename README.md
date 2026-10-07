@@ -69,6 +69,8 @@ python -m PyInstaller --noconsole --onefile gui_weather.py
 
 Note: Copy your .env file into the dist/ folder right alongside gui_weather.exe so the standalone application can load your credentials at runtime.
 
+<img width="753" height="582" alt="image" src="https://github.com/user-attachments/assets/ef385204-4085-4c40-a3a7-6b06f3e1c738" />
+
 
 📄 License
 This project is open-source and available under the MIT License.
