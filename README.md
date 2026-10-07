@@ -46,7 +46,7 @@ A free API Key from OpenWeatherMap.
 
 Installation & Setup
 Clone the repository:
-git clone [https://github.com/yourusername/weather-forecast-app.git](https://github.com/yourusername/weather-forecast-app.git)
+git clone [[https://github.com/patelshiv8276-spec/weather-forecast-app.git](https://github.com/patelshiv8276-spec/weather-forecast-app.git)
 cd weather-forecast-app
 
 Install required dependencies:
