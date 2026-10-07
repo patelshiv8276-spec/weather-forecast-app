@@ -1,0 +1,20 @@
+# Sensitive credentials
+.env
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Virtual environment (if applicable)
+venv/
+.venv/
+env/
+
+# IDE / Editor settings
+.vscode/
+.idea/
